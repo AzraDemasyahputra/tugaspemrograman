@@ -79,11 +79,12 @@ $ git push -u origin master
 
 ## melihat hasil pada server repository
 untuk buka halaman github.com,arahkan pada repositorynya
-![gambar13](gambar)
+![gambar13](gambar/azra13.png)
+
 ## clone repository
 pada dasarnya mengcopy repository server dan secara otomatis mebuat satu direktory sesuai dengan nama repositorynya (working directory)
 untuk melakukan cloning,gunakan perintah :
 ```
 $ git clone [url]
 ```
-
+![gambar14](gambar/azra14.png)
